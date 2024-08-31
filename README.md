@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashtheycg&label=Profile%20views&color=0e75b6&style=flat" alt="yashtheycg" /> </p>
 
-- 🌱 I’m currently learning **Sockets, JavaScript, Docker, Java, Graphs, Github-Actions**
+- 🌱 I’m currently learning **Go, JavaScript, Docker, Graphs, Github-Actions**
 
 - 👨‍💻 All of my projects are available at [https://yashchandilgupta.netlify.app/](https://yashchandilgupta.netlify.app/)
 
