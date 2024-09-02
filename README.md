@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashchandil20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N8eZ4uWVMH11_SXpCikKagCFP4AWd4Sp/view?usp=sharing](https://drive.google.com/file/d/1N8eZ4uWVMH11_SXpCikKagCFP4AWd4Sp/view?usp=sharing)
+- 📄 Know about my experiences [📑](https://drive.google.com/file/d/1N8eZ4uWVMH11_SXpCikKagCFP4AWd4Sp/view?usp=sharing)
 
 - ⚡ Fun fact **I am creative**
 
